@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\UsoArrays\bin\Debug\net7.0\UsoArrays.exe
+C:\Users\PC\Desktop\C#\UsoArrays\bin\Debug\net7.0\UsoArrays.deps.json
+C:\Users\PC\Desktop\C#\UsoArrays\bin\Debug\net7.0\UsoArrays.runtimeconfig.json
+C:\Users\PC\Desktop\C#\UsoArrays\bin\Debug\net7.0\UsoArrays.dll
+C:\Users\PC\Desktop\C#\UsoArrays\bin\Debug\net7.0\UsoArrays.pdb
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.dll
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\refint\UsoArrays.dll
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.pdb
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\UsoArrays.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\UsoArrays\obj\Debug\net7.0\ref\UsoArrays.dll

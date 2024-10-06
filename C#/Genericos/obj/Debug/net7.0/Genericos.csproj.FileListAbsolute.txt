@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Genericos\bin\Debug\net7.0\Genericos.exe
+C:\Users\PC\Desktop\C#\Genericos\bin\Debug\net7.0\Genericos.deps.json
+C:\Users\PC\Desktop\C#\Genericos\bin\Debug\net7.0\Genericos.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Genericos\bin\Debug\net7.0\Genericos.dll
+C:\Users\PC\Desktop\C#\Genericos\bin\Debug\net7.0\Genericos.pdb
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.dll
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\refint\Genericos.dll
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.pdb
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\Genericos.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Genericos\obj\Debug\net7.0\ref\Genericos.dll

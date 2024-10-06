@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\bin\Debug\net7.0\PropiedadesAcceso.exe
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\bin\Debug\net7.0\PropiedadesAcceso.deps.json
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\bin\Debug\net7.0\PropiedadesAcceso.runtimeconfig.json
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\bin\Debug\net7.0\PropiedadesAcceso.dll
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\bin\Debug\net7.0\PropiedadesAcceso.pdb
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.dll
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\refint\PropiedadesAcceso.dll
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.pdb
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\PropiedadesAcceso.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\PropiedadesAcceso\obj\Debug\net7.0\ref\PropiedadesAcceso.dll

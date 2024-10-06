@@ -1,0 +1,29 @@
+C:\Users\PC\Desktop\C#\ValidacionEmail\bin\Debug\net7.0-windows\ValidacionEmail.exe
+C:\Users\PC\Desktop\C#\ValidacionEmail\bin\Debug\net7.0-windows\ValidacionEmail.deps.json
+C:\Users\PC\Desktop\C#\ValidacionEmail\bin\Debug\net7.0-windows\ValidacionEmail.runtimeconfig.json
+C:\Users\PC\Desktop\C#\ValidacionEmail\bin\Debug\net7.0-windows\ValidacionEmail.dll
+C:\Users\PC\Desktop\C#\ValidacionEmail\bin\Debug\net7.0-windows\ValidacionEmail.pdb
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail_MarkupCompile.cache
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail_MarkupCompile.lref
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.g.resources
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.dll
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\refint\ValidacionEmail.dll
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.pdb
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\ValidacionEmail\obj\Debug\net7.0-windows\ref\ValidacionEmail.dll
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail_MarkupCompile.cache
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail_MarkupCompile.lref
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.dll
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\refint\ValidacionEmail.dll
+C:\Users\PC\Desktop\Programación\C# proyectos\ValidacionEmail\obj\Debug\net7.0-windows\ValidacionEmail.pdb

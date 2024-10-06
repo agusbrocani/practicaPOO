@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\ListBoxPractica\bin\Debug\ListBoxPractica.exe.config
+C:\Users\PC\Desktop\C#\ListBoxPractica\bin\Debug\ListBoxPractica.exe
+C:\Users\PC\Desktop\C#\ListBoxPractica\bin\Debug\ListBoxPractica.pdb
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica_MarkupCompile.cache
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica_MarkupCompile.lref
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.g.resources
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.exe
+C:\Users\PC\Desktop\C#\ListBoxPractica\obj\Debug\ListBoxPractica.pdb

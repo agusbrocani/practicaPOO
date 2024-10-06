@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\FirstInterface\bin\Debug\FirstInterface.exe.config
+C:\Users\PC\Desktop\C#\FirstInterface\bin\Debug\FirstInterface.exe
+C:\Users\PC\Desktop\C#\FirstInterface\bin\Debug\FirstInterface.pdb
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface_MarkupCompile.cache
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface_MarkupCompile.lref
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.g.resources
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.exe
+C:\Users\PC\Desktop\C#\FirstInterface\obj\Debug\FirstInterface.pdb

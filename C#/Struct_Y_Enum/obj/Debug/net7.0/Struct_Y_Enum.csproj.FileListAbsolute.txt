@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\bin\Debug\net7.0\Struct_Y_Enum.exe
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\bin\Debug\net7.0\Struct_Y_Enum.deps.json
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\bin\Debug\net7.0\Struct_Y_Enum.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\bin\Debug\net7.0\Struct_Y_Enum.dll
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\bin\Debug\net7.0\Struct_Y_Enum.pdb
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.dll
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\refint\Struct_Y_Enum.dll
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.pdb
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\Struct_Y_Enum.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Struct_Y_Enum\obj\Debug\net7.0\ref\Struct_Y_Enum.dll

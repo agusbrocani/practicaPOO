@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\bin\Debug\net7.0\ValidaEmailPorConsola.exe
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\bin\Debug\net7.0\ValidaEmailPorConsola.deps.json
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\bin\Debug\net7.0\ValidaEmailPorConsola.runtimeconfig.json
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\bin\Debug\net7.0\ValidaEmailPorConsola.dll
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\bin\Debug\net7.0\ValidaEmailPorConsola.pdb
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.dll
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\refint\ValidaEmailPorConsola.dll
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.pdb
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ValidaEmailPorConsola.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\ValidaEmailPorConsola\obj\Debug\net7.0\ref\ValidaEmailPorConsola.dll

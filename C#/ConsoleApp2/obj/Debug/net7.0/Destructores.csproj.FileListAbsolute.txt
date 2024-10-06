@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\ConsoleApp2\bin\Debug\net7.0\Destructores.exe
+C:\Users\PC\Desktop\C#\ConsoleApp2\bin\Debug\net7.0\Destructores.deps.json
+C:\Users\PC\Desktop\C#\ConsoleApp2\bin\Debug\net7.0\Destructores.runtimeconfig.json
+C:\Users\PC\Desktop\C#\ConsoleApp2\bin\Debug\net7.0\Destructores.dll
+C:\Users\PC\Desktop\C#\ConsoleApp2\bin\Debug\net7.0\Destructores.pdb
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.dll
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\refint\Destructores.dll
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.pdb
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\Destructores.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\ConsoleApp2\obj\Debug\net7.0\ref\Destructores.dll

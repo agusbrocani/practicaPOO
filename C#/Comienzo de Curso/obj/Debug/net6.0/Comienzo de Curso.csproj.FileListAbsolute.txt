@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\Comienzo de Curso\bin\Debug\net6.0\Comienzo de Curso.exe
+C:\Users\PC\Desktop\C#\Comienzo de Curso\bin\Debug\net6.0\Comienzo de Curso.deps.json
+C:\Users\PC\Desktop\C#\Comienzo de Curso\bin\Debug\net6.0\Comienzo de Curso.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Comienzo de Curso\bin\Debug\net6.0\Comienzo de Curso.dll
+C:\Users\PC\Desktop\C#\Comienzo de Curso\bin\Debug\net6.0\Comienzo de Curso.pdb
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.dll
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\refint\Comienzo de Curso.dll
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.pdb
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\Comienzo de Curso.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Comienzo de Curso\obj\Debug\net6.0\ref\Comienzo de Curso.dll

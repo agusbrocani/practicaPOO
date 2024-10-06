@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\Vehiculo\bin\Debug\net7.0\Vehiculo.exe
+C:\Users\PC\Desktop\C#\Vehiculo\bin\Debug\net7.0\Vehiculo.deps.json
+C:\Users\PC\Desktop\C#\Vehiculo\bin\Debug\net7.0\Vehiculo.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Vehiculo\bin\Debug\net7.0\Vehiculo.dll
+C:\Users\PC\Desktop\C#\Vehiculo\bin\Debug\net7.0\Vehiculo.pdb
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.dll
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\refint\Vehiculo.dll
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.pdb
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\Vehiculo.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Vehiculo\obj\Debug\net7.0\ref\Vehiculo.dll

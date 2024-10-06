@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\Prueba de comandos\bin\Debug\net6.0\Prueba de comandos.exe
+C:\Users\PC\Desktop\C#\Prueba de comandos\bin\Debug\net6.0\Prueba de comandos.deps.json
+C:\Users\PC\Desktop\C#\Prueba de comandos\bin\Debug\net6.0\Prueba de comandos.runtimeconfig.json
+C:\Users\PC\Desktop\C#\Prueba de comandos\bin\Debug\net6.0\Prueba de comandos.dll
+C:\Users\PC\Desktop\C#\Prueba de comandos\bin\Debug\net6.0\Prueba de comandos.pdb
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.dll
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\refint\Prueba de comandos.dll
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.pdb
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\Prueba de comandos.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\Prueba de comandos\obj\Debug\net6.0\ref\Prueba de comandos.dll

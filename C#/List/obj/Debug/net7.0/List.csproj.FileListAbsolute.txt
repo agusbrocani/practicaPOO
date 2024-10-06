@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\bin\Debug\net7.0\List.exe
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\bin\Debug\net7.0\List.deps.json
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\bin\Debug\net7.0\List.dll
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\bin\Debug\net7.0\List.pdb
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.dll
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\refint\List.dll
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.pdb
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\EstructurasDeDatos\obj\Debug\net7.0\ref\List.dll

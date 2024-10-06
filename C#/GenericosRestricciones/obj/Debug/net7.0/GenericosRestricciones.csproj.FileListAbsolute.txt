@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\GenericosRestricciones\bin\Debug\net7.0\GenericosRestricciones.exe
+C:\Users\PC\Desktop\C#\GenericosRestricciones\bin\Debug\net7.0\GenericosRestricciones.deps.json
+C:\Users\PC\Desktop\C#\GenericosRestricciones\bin\Debug\net7.0\GenericosRestricciones.runtimeconfig.json
+C:\Users\PC\Desktop\C#\GenericosRestricciones\bin\Debug\net7.0\GenericosRestricciones.dll
+C:\Users\PC\Desktop\C#\GenericosRestricciones\bin\Debug\net7.0\GenericosRestricciones.pdb
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.dll
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\refint\GenericosRestricciones.dll
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.pdb
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\GenericosRestricciones.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\GenericosRestricciones\obj\Debug\net7.0\ref\GenericosRestricciones.dll

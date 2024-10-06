@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\ValidaEMails\bin\Debug\net7.0\ValidaEMails.exe
+C:\Users\PC\Desktop\C#\ValidaEMails\bin\Debug\net7.0\ValidaEMails.deps.json
+C:\Users\PC\Desktop\C#\ValidaEMails\bin\Debug\net7.0\ValidaEMails.runtimeconfig.json
+C:\Users\PC\Desktop\C#\ValidaEMails\bin\Debug\net7.0\ValidaEMails.dll
+C:\Users\PC\Desktop\C#\ValidaEMails\bin\Debug\net7.0\ValidaEMails.pdb
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.dll
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\refint\ValidaEMails.dll
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.pdb
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ValidaEMails.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\ValidaEMails\obj\Debug\net7.0\ref\ValidaEMails.dll

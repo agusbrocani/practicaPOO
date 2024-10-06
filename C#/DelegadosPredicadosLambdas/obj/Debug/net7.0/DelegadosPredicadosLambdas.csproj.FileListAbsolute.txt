@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\bin\Debug\net7.0\DelegadosPredicadosLambdas.exe
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\bin\Debug\net7.0\DelegadosPredicadosLambdas.deps.json
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\bin\Debug\net7.0\DelegadosPredicadosLambdas.runtimeconfig.json
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\bin\Debug\net7.0\DelegadosPredicadosLambdas.dll
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\bin\Debug\net7.0\DelegadosPredicadosLambdas.pdb
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.dll
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\refint\DelegadosPredicadosLambdas.dll
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.pdb
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\DelegadosPredicadosLambdas.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\DelegadosPredicadosLambdas\obj\Debug\net7.0\ref\DelegadosPredicadosLambdas.dll
